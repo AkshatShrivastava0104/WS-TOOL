@@ -9,7 +9,7 @@ public:
     void count();
     void printCounts() const;
 
-private:
+private:   
     std::string m_filename;  
     int m_wordCount;
     int m_lineCount;
