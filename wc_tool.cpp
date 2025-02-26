@@ -10,6 +10,6 @@ int main(int argc, char* argv[]) {
     WCTool wcTool(argv[1]);
     wcTool.count();  
     wcTool.printCounts();
-
+  
     return 0;
 }
