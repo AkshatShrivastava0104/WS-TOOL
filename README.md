@@ -6,7 +6,7 @@ The Word Count (WC) tool is a C++-based utility that takes a text input and prod
 
 The following features are proposed for the WC tool:
 
-
+ 
 Word Counting: The tool will count the total number of words in the input text.
 
 
