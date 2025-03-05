@@ -10,7 +10,7 @@ The following features are proposed for the WC tool:
 Word Counting: The tool will count the total number of words in the input text.
  
     
-Unique Word Counting: The tool will count the number of unique words in the input text.
+Unique Word Counting: The tool will count the number of unique words in the input text. 
 
 
 Word Frequency: The tool will display the frequency of each word in the input text.
